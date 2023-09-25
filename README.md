@@ -1,31 +1,24 @@
 # Praktikum 3: Menerapkan Widget Dasar
 
-![Screenshoot Langkah 1: Text Widget]
-(images/text_widget-01.png)
+![Screenshoot Langkah 1: Text Widget](images/text_widget-01.png)
 
 
-![Screenshoot Langkah 2: Image Widget]
-(images/image_widget.png)
+![Screenshoot Langkah 2: Image Widget](images/image_widget.png)
 
 # Praktikum 4: Menerapkan Widget Material Design dan iOS Cupertino
 
-![Screenshoot Langkah 1: Cupertino Button dan Loading Bar]
-(images/Cuppertino and loading.png)
+![Screenshoot Langkah 1: Cupertino Button dan Loading Bar](images/Cuppertino%20and%20loading.png)
 
-![Screenshoot Langkah 2: Floating Action Button (FAB)]
-(images/Floating%20Action%20Button.png)
 
-![Screenshot Langkah 3: Scaffold Widget]
-(images/Scaffold%20Widget.png)
+![Screenshoot Langkah 2: Floating Action Button (FAB)](images/Floating%20Action%20Button.png)
 
-![Screenshot Langkah 4: Dialog Widget]
-(images/Dialog%20Widget.png)
+![Screenshot Langkah 3: Scaffold Widget](images/Scaffold%20Widget.png)
 
-![Screenshoot Langkah 5: Input dan Selection Widget]
-(images/Input%20and%20Selection%20Widget.png)
+![Screenshot Langkah 4: Dialog Widget](images/Dialog%20Widget.png)
 
-![Screenshoot Langkah 6: Date and Time Pickers]
-(images/Date%20and%20Time%20Pickers.png)
+![Screenshoot Langkah 5: Input dan Selection Widget](images/Input%20and%20Selection%20Widget.png)
+
+![Screenshoot Langkah 6: Date and Time Pickers](images/Date%20and%20Time%20Pickers.png)
 
 
 ## Getting Started
